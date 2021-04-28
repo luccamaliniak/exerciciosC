@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617638739 source:c:\users\lucca\desktop\-\algoritmo\lista_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
